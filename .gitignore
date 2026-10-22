@@ -1,0 +1,41 @@
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment Variables and Secrets
+.env
+.env.*
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated Model Files
+models/*.pth
+models/*.pt
+models/*.h5
+models/*.keras
+models/*.onnx
+
+# Generated Results
+results/
+reports/
+
+# Temporary Files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
